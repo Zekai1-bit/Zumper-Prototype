@@ -1,0 +1,124 @@
+{
+  "v": 1,
+  "returnAddress": "zekaiwan123@Gmail.com",
+  "study_id": "60de8342-4d1f-4563-ae98-54a90d934a20",
+  "name": "Zumper navigation",
+  "type": "hybrid",
+  "instructions": "Sort these navigation labels into groups that make sense to you. Use the starting categories or create your own. There are no right or wrong answers.",
+  "cards": [
+    {
+      "id": "c0",
+      "label": "Apartments for rent"
+    },
+    {
+      "id": "c1",
+      "label": "Houses for rent"
+    },
+    {
+      "id": "c2",
+      "label": "Rooms for rent"
+    },
+    {
+      "id": "c3",
+      "label": "Short Term Rentals"
+    },
+    {
+      "id": "c4",
+      "label": "Luxury Apartments"
+    },
+    {
+      "id": "c5",
+      "label": "Pet-friendly Apartments"
+    },
+    {
+      "id": "c6",
+      "label": "Cheap Apartments"
+    },
+    {
+      "id": "c7",
+      "label": "Rent calculator"
+    },
+    {
+      "id": "c8",
+      "label": "Rent research"
+    },
+    {
+      "id": "c9",
+      "label": "Renting tips & advice"
+    },
+    {
+      "id": "c10",
+      "label": "Messaged"
+    },
+    {
+      "id": "c11",
+      "label": "Favorites"
+    },
+    {
+      "id": "c12",
+      "label": "Applications"
+    },
+    {
+      "id": "c13",
+      "label": "Renting resources"
+    },
+    {
+      "id": "c14",
+      "label": "Marketing Studio"
+    },
+    {
+      "id": "c15",
+      "label": "Manage rentals"
+    },
+    {
+      "id": "c16",
+      "label": "Advertise with Zumper"
+    },
+    {
+      "id": "c17",
+      "label": "Tenant Screening"
+    },
+    {
+      "id": "c18",
+      "label": "List Property"
+    },
+    {
+      "id": "c19",
+      "label": "Landlord Resources"
+    },
+    {
+      "id": "c20",
+      "label": "About Us"
+    },
+    {
+      "id": "c21",
+      "label": "Careers"
+    },
+    {
+      "id": "c22",
+      "label": "Blog"
+    },
+    {
+      "id": "c23",
+      "label": "Newsroom"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat0",
+      "name": "Find a Place"
+    },
+    {
+      "id": "cat1",
+      "name": "Filter by Type\tMy Renter Account"
+    },
+    {
+      "id": "cat2",
+      "name": "Renting Resources"
+    },
+    {
+      "id": "cat3",
+      "name": "For Landlords"
+    }
+  ]
+}
